@@ -1,0 +1,5 @@
+Source code colab (Kelompok 3):
+
+1. NN SKlearn: https://colab.research.google.com/drive/17TT3vt00k8uOEWh2W5OAhfVmGOT4-Fr8#scrollTo=xAfUscdOdf4n
+2. NN Tensor: https://colab.research.google.com/drive/128e_SHmcnM8yNGMiNDorrEWjnqdKBThu#scrollTo=jWFnEc8kNx3C
+3. LSTM Tensor: https://colab.research.google.com/drive/1-8_2rDaM3gFw9-2swMhvQJtcBbqZBB3_#scrollTo=voTsl_9bVEh2
